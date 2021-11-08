@@ -6,6 +6,7 @@
         "@aws.cfnSchemaVersion": "v5.2.11",
         "@aws.samSchemaVersion": "v5.2.11",
         "@git.suggestSmartCommit": false,
+        "@json.schemas": [],
         "@yaml.customTags": [
             "!And",
             "!And sequence",
